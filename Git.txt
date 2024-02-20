@@ -3,3 +3,5 @@ Inicio Aula Git
 Alteração Aula Git.
 
 Alteração de arquivo 2
+
+Alteração de arquivo 3
